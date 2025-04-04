@@ -59,6 +59,6 @@ Although the model performs flawlessly on synthetic data, future iterations coul
 For any questions, feel free to reach out:
 - GitHub: [Click Here](https://github.com/smogjuwon)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/oluwaseun-olorunju/)
-- Interact with the Streamlit web app here:[Prime-Nest-Housing-Prediction](http://192.168.0.220:8501)
+- Interact with the Streamlit web app here:[Prime-Nest-Housing-Prediction]([https://prime-nest-housing-prediction-b9elppmqsekqqldugt4d2d.streamlit.app/])
 
 ---
